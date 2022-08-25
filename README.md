@@ -22,7 +22,7 @@ Recognize when there is low battery and dock into a charging point, exiting when
 - Two Adafruit N20 DC Motors.
 - Two L298 motors driver.
 - Two 3D-Printed wheels.
-- Two small balls.
+- Two guiding rolling wheels.
 - Robot Skeleton (Handmade).
 - Silver power bank miracase.
 - On/Off button.
