@@ -23,7 +23,7 @@ Recognize when there is low battery and dock into a charging point, exiting when
 * Two L298 motors driver.
 * Two 3D-Printed wheels.
 * Two guiding rolling wheels.
-* Robot Skeleton (Handmade).
+* Robot Skeleton (Handmade, as seen [here](https://www.youtube.com/watch?v=xytOwOuyp5M).
 * Silver power bank miracase.
 * On/Off button.
 
