@@ -112,6 +112,6 @@ In Week 16 (right before the presentation), we filmed the video requested for th
 */ 
 
 # Contributors
-Nadeen Bawardi
-Banan Ashkar
-Dalal Eghbaria
+* Nadeen Bawardi
+* Banan Ashkar
+* Dalal Eghbaria
