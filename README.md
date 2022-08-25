@@ -28,13 +28,9 @@ Recognize when there is low battery and dock into a charging point, exiting when
 - On/Off button.
 
 # Used Libraries
-/* The external libraries used in the project are:
-WebSerial
-Sparkfun tb6612fng
-SparkFun VL53L1X
-Firebase
-time.h
-*/ 
+The external libraries used in the project are:
+- WebSerial
+- SparkFun VL53L1X
 
 # The Robot Physic
 /* The robot has an On/Off button outside, for easy access as shown here.
