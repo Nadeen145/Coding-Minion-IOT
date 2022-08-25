@@ -16,21 +16,21 @@ Recognize when there is low battery and dock into a charging point, exiting when
 */
 
 ## System Parts ////////// <=4
-- ESP32 Dev Module.
-- Three SparkFun VL53L1X Distance Sensors.
-- GM65
-- Two Adafruit N20 DC Motors.
-- Two L298 motors driver.
-- Two 3D-Printed wheels.
-- Two guiding rolling wheels.
-- Robot Skeleton (Handmade).
-- Silver power bank miracase.
-- On/Off button.
+* ESP32 Dev Module.
+* Three SparkFun VL53L1X Distance Sensors.
+* GM65
+* Two Adafruit N20 DC Motors.
+* Two L298 motors driver.
+* Two 3D-Printed wheels.
+* Two guiding rolling wheels.
+* Robot Skeleton (Handmade).
+* Silver power bank miracase.
+* On/Off button.
 
 ## Used Libraries //////////
 The external libraries used in the project are:
-- WebSerial
-- SparkFun VL53L1X
+* [WebSerial](https://randomnerdtutorials.com/esp32-webserial-library/)
+* [SparkFun VL53L1X](https://github.com/sparkfun/SparkFun_VL53L1X_Arduino_Library)
 
 ## The Robot Physic ----------
 /* The robot has an On/Off button outside, for easy access as shown here.
@@ -77,7 +77,7 @@ This is the first screen the user gets when launching the app. If the user is lo
 ### Live Feed Screen
 This is the primary function of the app (hence, the largest button in the main screen). The screen is mostly filled with the live video that the robot's camera is broadcasting online, and at the bottom there is a button that changes the robot's movement state - Autonomous or Manual. the rest of the screen depends on the type of state we're in:
 
-Autonomous (as seen here) - the robot drives by itself. There is one button that the user can press - the "go charge" button.
+Autonomous (as seen [here](https://github.com/jonathanBreitman/HI-ROBOT/blob/main/Robot%20Pictures/LiveFeedScreenAutonomous.jpeg)) - the robot drives by itself. There is one button that the user can press - the "go charge" button.
 
 Manual (as seen here) - the robot drives by user instructions. There is a Joystick for controlling the movement direction and speed, and a "take picture" button.
 This screen also has some small UI changes and notifications to alert the user that the robot's battery is low, and when the robot is charging.
