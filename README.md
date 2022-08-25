@@ -16,18 +16,16 @@ Recognize when there is low battery and dock into a charging point, exiting when
 */
 
 # System Parts
-/* AI Thinker ESP32-cam.
-ESP32 Dev Module.
-Two SparkFun VL53L1X Distance Sensors.
-Two Adafruit N20 DC Motors.
-Sparkfun tb6612fng motors driver.
-Two 3D-Printed wheels.
-Robot Skeleton.
-4V battery, equipped with Voltage Regulator.
-Wireless Charging module for the battery, and a Wireless charging station.
-Charging Rail.
-On/Off button.
-*/
+- ESP32 Dev Module.
+- Three SparkFun VL53L1X Distance Sensors.
+- GM65
+- Two Adafruit N20 DC Motors.
+- Two L298 motors driver.
+- Two 3D-Printed wheels.
+- Two small balls.
+- Robot Skeleton (Handmade).
+- Silver power bank miracase.
+- On/Off button.
 
 # Used Libraries
 /* The external libraries used in the project are:
