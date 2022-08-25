@@ -1,13 +1,13 @@
-# Coding-Minion
+# Coding-Minion ------------------------------------------------------------
 // A robotic minion that can navigate around the house like an IROBOT, take pictures, provide live video feed, and has a self charging function.
 
-# Goal
+# Goal 
 A robotic minion that solves mazes with the help of the user's programming. The minion walks straight, and when it hits a wall it turns to the right or left and continues to walk. The direction of rotation is determined according to a program that the user "programs" by arranging colored cards containing barcodes. The entire programming is done before starting the trip by scanning the barcodes. If there is a mistake, the user rearranges the tabs and scans again.
 
 # Backstory
 This repo is the product of the course 236333 - Project in IoT, at the Technion university. This project was created by Nadeen Bawardi, Banan Ashkar, Dalal Eghbaria and guided with the help of Tom Sopher, Itay Dabran and Natali Uda.
 
-# The Coding Minion, Capabilities
+# The Coding Minion, Capabilities ------------------------------------------------------------
 /* Move autonomously around a perimeter.
 Move manually via controls used with a matching application.
 Provide live-stream video to the application.
@@ -15,7 +15,7 @@ Take pictures on user request and every few minutes automatically, the pictures 
 Recognize when there is low battery and dock into a charging point, exiting when fully charged or on user request.
 */
 
-# System Parts
+# System Parts ********************************************************* <=4
 - ESP32 Dev Module.
 - Three SparkFun VL53L1X Distance Sensors.
 - GM65
@@ -27,12 +27,12 @@ Recognize when there is low battery and dock into a charging point, exiting when
 - Silver power bank miracase.
 - On/Off button.
 
-# Used Libraries
+# Used Libraries *********************************************************
 The external libraries used in the project are:
 - WebSerial
 - SparkFun VL53L1X
 
-# The Robot Physic
+# The Robot Physic ------------------------------------------------------------
 /* The robot has an On/Off button outside, for easy access as shown here.
 
 The robots physic is very tricycle like, with two wheels in the back, and a guiding rolling wheel in the front.
@@ -41,13 +41,13 @@ The robot has two distance sensors, as seen here, one facing forward and the oth
 The charging device is based at the front of the robot, as shown here, so when the robot is charging, it will go to the charging station, and dock into it facing forward.
 */
 
-# Autonomous Movement Algorithm Explanation
+# Autonomous Movement Algorithm Explanation  ------------------------------------------------------------
 /* Using the sensors in their placement as defined earlier, the robot could advance in a straight line, while using the right facing sensor in order to ensure it maintains the same distance from the right wall at any time, and using the front facing sensor in order to detect whenever the robot is approaching a corner in order to make the appropriate turn.
 
 This algorithm is rather simple, but it makes sure the robot is walking in a perimeter around the requested area, and it is far more efficient then using four sensors and implementing a random-based movement algorithm.
 */
 
-# Automated Charging Explanation
+# Automated Charging Explanation  ------------------------------------------------------------
 /* The robot can be configured anytime with the number of corners in the room through the application. The robot will use that data, together with the data from the sensors, in order to detect when it's facing the corner containing the charging station.
 
 It will then dock into the charging station, if one of the following conditions is met:
@@ -60,7 +60,7 @@ The robot gets a feed from the charging component, and will try to adjust his po
 After the robot is done charging, the application will notify the user, and the robot will continue moving.
 */
 
-# The Barcode
+# The Barcode  ------------------------------------------------------------
 /* What differs our robot from a regular old I-Robot, is the camera. The camera is able to send live footage constantly to the application, and it takes pictures when one of these conditions are met:
 
 The user requested a picture be taken.
@@ -68,7 +68,7 @@ The allotted time interval (changeable through the application), has passed.
 */
 
 
-# The Application
+# The Application  ------------------------------------------------------------
 /* (if you want to check out the app the apk is available at hr_app\build\app\outputs\flutter-apk\app-release.apk) The application's purpose, is to grant the user access to the footage of the robot (both live feed and saved photos), and to control the robot's movement. The app's general structure is as follows:
 
 The Main Screen (as seen here)
@@ -88,7 +88,7 @@ This screen has some settings that the user can edit in order to affect the robo
 Saved Footage Screen (as seen here)
 This screen shows the user all of the saved pictures that the robot has taken, with their corresponding date of creation.
 
-# Project Time Table
+# Project Time Table  ------------------------------------------------------------
 /* Week	Application	Hardware	Controller Code
 3	-	Acquiring distance sensors	Writing basic examples and tests for controlling distance sensors
 4	-	Acquiring Dc motors & controller	Writing basic examples and tests for the Dc motors
