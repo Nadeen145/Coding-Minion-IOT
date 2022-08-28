@@ -1,4 +1,4 @@
-# Coding Minion 
+# Coding Minion ----------
 // A robotic minion that can navigate around the house like an IROBOT, take pictures, provide live video feed, and has a self charging function.
 
 # Goal 
