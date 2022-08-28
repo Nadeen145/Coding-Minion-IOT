@@ -29,7 +29,7 @@
 #define PWMA 210    // Value from 0 to 255.
 
 // Motor B
-#define EN_A 25
+#define EN_B 25
 #define IN1_B 13
 #define IN2_B 12
 #define PWMB 210    // Value from 0 to 255.
