@@ -15,7 +15,7 @@ Take pictures on user request and every few minutes automatically, the pictures 
 Recognize when there is low battery and dock into a charging point, exiting when fully charged or on user request.
 */
 
-## System Parts  <=4
+## System Parts ////////// <=4
 * ESP32 Dev Module.
 * Three SparkFun VL53L1X Distance Sensors.
 * GM65
