@@ -112,3 +112,12 @@ In Week 16 (right before the presentation), we filmed the video requested for th
 * Nadeen Bawardi
 * Banan Ashkar
 * Dalal Eghbaria
+
+
+# TODO List: 
+- To add voice sensor
+- To add light sensor
+- To add leds
+- Function havhav here
+- Led light according to the color of the card
+
