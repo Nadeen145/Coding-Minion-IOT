@@ -31,6 +31,7 @@ Recognize when there is low battery and dock into a charging point, exiting when
 The external libraries used in the project are:
 * [WebSerial](https://randomnerdtutorials.com/esp32-webserial-library/)
 * [SparkFun VL53L1X](https://github.com/sparkfun/SparkFun_VL53L1X_Arduino_Library)
+* AnalogWrite
 
 ## Helping Links //////////
 Links that helped us to deal with the sensors:
