@@ -45,7 +45,6 @@ Links that helped us to deal with the sensors:
 
 # TODO List: 
 - To add voice sensor
-- To add light sensor
 - To add leds
 - To add button
 - Function havhav here
@@ -55,5 +54,4 @@ Links that helped us to deal with the sensors:
 - To correct barcodes
 - To fix the minion
 - barcodes for: velocity (3) + change color (-) + voice (-) + ...
-
 
