@@ -47,6 +47,13 @@ Links that helped us to deal with the sensors:
 - To add voice sensor
 - To add light sensor
 - To add leds
+- To add button
 - Function havhav here
 - Led light according to the color of the card
+- To add LCD
+- To do the maze
+- To correct barcodes
+- To fix the minion
+- barcodes for: velocity (3) + change color (-) + voice (-) + ...
+
 
