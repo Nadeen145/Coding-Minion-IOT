@@ -44,6 +44,7 @@ Links that helped us to deal with the sensors:
 
 
 # TODO List: 
+-To add the third distance sensor
 - To add voice sensor
 - To add leds
 - To add button
@@ -54,4 +55,3 @@ Links that helped us to deal with the sensors:
 - To correct barcodes
 - To fix the minion
 - barcodes for: velocity (3) + change color (-) + voice (-) + ...
-
