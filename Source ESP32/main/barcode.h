@@ -8,8 +8,8 @@
 
 #include "leds.h"
 
-#define RXD2   16
-#define TXD2   17
+#define RXD   4
+#define TXD   2
 
 enum turn {	Right, Left, Forward,
 			Right_A, Right_B, Right_C, Right_D, 
