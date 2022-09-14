@@ -1,5 +1,6 @@
 # Coding Minion ----------
 // A robotic minion that can navigate around the house like an IROBOT, take pictures, provide live video feed, and has a self charging function.
+https://he.aliexpress.com/item/1005002339981244.html?spm=a2g0o.ppclist.product.4.50361lmE1lmENW&pdp_npi=2%40dis%21USD%21US%20%241.01%21US%20%240.68%21%21%21%21%21%402103239b16631823707767455ec8fe%2112000020175288111%21btf&_t=pvid%3Aaf621d63-dd59-4dbf-b9c2-7263620d3aff&afTraceInfo=1005002339981244__pc__pcBridgePPC__xxxxxx__1663182371&gatewayAdapt=glo2isr
 
 # Goal 
 A robotic minion that solves mazes with the help of the user's programming. The minion walks straight, and when it hits a wall it turns to the right or left and continues to walk. The direction of rotation is determined according to a program that the user "programs" by arranging colored cards containing barcodes. The entire programming is done before starting the trip by scanning the barcodes. If there is a mistake, the user rearranges the tabs and scans again.
