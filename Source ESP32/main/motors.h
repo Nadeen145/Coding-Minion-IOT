@@ -23,8 +23,8 @@
 // motor B is the right side motor
 
 // Motor A
-#define EN_A 27
-#define IN1_A 25
+#define EN_A 25
+#define IN1_A 27
 #define IN2_A 26
 #define PWMA 240    // Value from 0 to 255
 
