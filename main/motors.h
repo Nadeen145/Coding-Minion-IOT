@@ -1,0 +1,52 @@
+#ifndef MOTORS_H
+#define MOTORS_H
+
+#include "barcode.h"
+#include "L298NX2.h"
+#include "distance_sensors.h"
+#include "voice.h"
+
+#include <Arduino.h>
+#include <vector>
+#include <string>
+
+#define MIN_DISTANCE_FRONT        70
+#define MAX_DISTANCE_FRONT        300
+#define WALL_DISTANCE_FRONT       300
+
+#define MIN_DISTANCE_SIDE         70     
+#define MAX_DISTANCE_SIDE         210
+
+#define BEFORE_CORNER_DELAY       1800
+
+#define FRONT_DELAY_CORRECTION    2500
+#define FORWARD_DELAY_CORRECTION  300 
+
+
+// motor A is the left side motor
+// motor B is the right side motor
+
+// Motor A
+#define EN_A    13
+#define IN1_A   12
+#define IN2_A   14
+#define PWMA    225    // Value from 0 to 255
+
+// Motor B
+#define EN_B    25
+#define IN1_B   27
+#define IN2_B   26
+#define PWMB    225    // Value from 0 to 255
+
+void setupMotorPins();
+void turn_90_degree_right();
+void turn_90_degree_left();
+void turn_180_degree_left();
+void moveCorrect();
+void setMotorsValueBySensors();
+void setMotorsValueBySensorsForF();
+void goBack();
+void goBackF();
+void setMotorsValueBySensorsForFMode2();
+
+#endif
