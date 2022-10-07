@@ -3,10 +3,12 @@ A robotic minion that can scan barcodes, move parallel to the wall, turn 90, 180
 
 
 # Goal 
-A robotic minion that solves mazes with the help of the user's programming. The minion walks straight, and when it hits a wall or a junction, it turns to the right or left or forward and continues to walk. The direction of rotation is determined according to a program that the user "programs" by arranging colored cards containing barcodes. The entire programming is done before starting the trip by scanning the barcodes. If there is a mistake, the user rearranges the tabs and scans again.
+A robotic minion that solves mazes with the help of the user's programming. The minion walks straight, and when it hits a wall or a junction, it turns to the right or left or forward and continues to walk. The direction of rotation is determined according to a program that the user "programs" by arranging colored cards containing barcodes. The entire programming is done before starting the trip by scanning the barcodes. If there is a mistake, the user rearranges the cards and scans again.
+
 
 ## Backstory
 This repo is the product of the course 236333 - Project in IoT, at the Technion university. This project was created by Nadeen Bawardi, Banan Ashkar, Dalal Eghbaria and guided with the help of Tom Sopher, Itay Dabran and Natali Uda.
+
 
 ## System Parts 
 * ESP32 Dev Module.
@@ -24,10 +26,13 @@ This repo is the product of the course 236333 - Project in IoT, at the Technion 
 * Silver power bank miracase.
 * On/Off switcher.
 
+
 ## Used Libraries //////////
 The external libraries used in the project are:
-* [SparkFun VL53L1X](https://github.com/sparkfun/SparkFun_VL53L1X_Arduino_Library)
-* AnalogWrite
+* [VL53L1X](https://www.arduino.cc/reference/en/libraries/vl53l1x/)
+* [ESP32 analogWrite](https://www.arduino.cc/reference/en/libraries/esp32-analogwrite/)
+* [L298N](https://www.arduino.cc/reference/en/libraries/l298n/)
+
 
 ## Helping Links //////////
 Links that helped us to deal with the sensors:
