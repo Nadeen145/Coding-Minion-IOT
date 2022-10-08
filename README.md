@@ -39,9 +39,7 @@ Links that helped us to deal with the sensors:
 
 | Sensor | Links |
 | ---- | ----------- |
-| VL53L1X Distance Sensors | https://github.com/pololu/vl53l1x-arduino |
-|                          | https://youtu.be/dzbGmIZv26E |
-|                          | https://microcontrollerslab.com/esp32-i2c-communication-tutorial-arduino-ide/#Using_Multiple_I2C_Devices_with_ESP32_same_addresses |       |                          | https://randomnerdtutorials.com/esp32-i2c-communication-arduino-ide/ |
+| VL53L1X Distance Sensors | * https://github.com/pololu/vl53l1x-arduino * https://youtu.be/dzbGmIZv26E * https://microcontrollerslab.com/esp32-i2c-communication-tutorial-arduino-ide/#Using_Multiple_I2C_Devices_with_ESP32_same_addresses * https://randomnerdtutorials.com/esp32-i2c-communication-arduino-ide/ |
 | 4 | - |
 | 5 | - |
 | 6 | - |
