@@ -45,7 +45,7 @@ Links that helped us to deal with the sensors:
 | Toggle Switcher | https://create.arduino.cc/projecthub/GeneralSpud/toggle-switch-3763a2 |
 | White Leds | https://esp32io.com/tutorials/esp32-led-fade |
 | RGB Leds | https://esp32io.com/tutorials/esp32-rgb-led |
-| Buzzer | 1. https://create.arduino.cc/projecthub/electropeak/how-to-use-ky-037-sound-detection-sensor-with-arduino-a757a7  <br /> 2. https://github.com/robsoncouto/arduino-songs |
+| Buzzer | https://github.com/robsoncouto/arduino-songs |
 
 
 ## Contributors
