@@ -18,13 +18,13 @@ This repo is the product of the course 236333 - Project in IoT, at the Technion 
 * 3 RGB leds.
 * 2 white leds.
 * 14 resistors.
-* Two Adafruit N20 DC Motors.
+* Two N20 DC Motors.
 * L298 motors driver.
+* Toggle Switcher.
+* Silver power bank miracase.
 * Two 3D-Printed wheels.
 * Two guiding rolling wheels.
 * Minion skeleton (Handmade, as shown [here](https://www.youtube.com/watch?v=xytOwOuyp5M)).
-* Silver power bank miracase.
-* Toggle Switcher.
 
 
 ## Used Libraries
@@ -34,18 +34,22 @@ The external libraries used in the project are:
 * [L298N](https://www.arduino.cc/reference/en/libraries/l298n/)
 
 
-## Helping Links //////////
+## Helping Links
 Links that helped us to deal with the sensors:
 
 | Sensor | Links |
 | ---- | ----------- |
+| ESP32 Dev Module | https://randomnerdtutorials.com/getting-started-with-esp32/ |
 | VL53L1X Distance Sensors | 1. https://github.com/pololu/vl53l1x-arduino <br /> 2. https://youtu.be/dzbGmIZv26E <br /> 3. https://microcontrollerslab.com/esp32-i2c-communication-tutorial-arduino-ide/#Using_Multiple_I2C_Devices_with_ESP32_same_addresses <br /> 4. https://randomnerdtutorials.com/esp32-i2c-communication-arduino-ide/ |
 | GM65 | 1. http://www.microtechnica.tv/support/manual/brm65_man.pdf <br /> 2. https://www.youtube.com/watch?v=aPUymNPWErE |
-| L298N | 1. https://github.com/AndreaLombardo/L298N <br /> 2. https://randomnerdtutorials.com/esp32-dc-motor-l298n-motor-driver-control-speed-direction/ <br /> 3. https://www.youtube.com/watch?v=2JTMqURJTwg |
-| Toggle Switcher | https://create.arduino.cc/projecthub/GeneralSpud/toggle-switch-3763a2 |
-| White Leds | https://esp32io.com/tutorials/esp32-led-fade |
-| RGB Leds | https://esp32io.com/tutorials/esp32-rgb-led |
 | Buzzer | https://github.com/robsoncouto/arduino-songs |
+| RGB Leds | https://esp32io.com/tutorials/esp32-rgb-led |
+| White Leds | https://esp32io.com/tutorials/esp32-led-fade |
+| L298N & N20 DC Motors | 1. https://github.com/AndreaLombardo/L298N <br /> 2. https://randomnerdtutorials.com/esp32-dc-motor-l298n-motor-driver-control-speed-direction/ <br /> 3. https://www.youtube.com/watch?v=2JTMqURJTwg |
+| Toggle Switcher | https://create.arduino.cc/projecthub/GeneralSpud/toggle-switch-3763a2 |
+
+
+
 
 
 ## Contributors
