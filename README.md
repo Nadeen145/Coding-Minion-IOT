@@ -12,7 +12,7 @@ This repo is the product of the course 236333 - Project in IoT, at the Technion 
 
 ## System Parts 
 * ESP32 Dev Module.
-* Three SparkFun VL53L1X Distance Sensors.
+* 3 VL53L1X Distance Sensors.
 * GM65.
 * Buzzer.
 * 3 RGB leds.
@@ -39,7 +39,10 @@ Links that helped us to deal with the sensors:
 
 | Sensor | Links |
 | ---- | ----------- |
-| 3 | - |
+| VL53L1X Distance Sensors | (https://github.com/pololu/vl53l1x-arduino) 
+(https://youtu.be/dzbGmIZv26E)
+(https://microcontrollerslab.com/esp32-i2c-communication-tutorial-arduino-ide/#Using_Multiple_I2C_Devices_with_ESP32_same_addresses)
+(https://randomnerdtutorials.com/esp32-i2c-communication-arduino-ide/) |
 | 4 | - |
 | 5 | - |
 | 6 | - |
