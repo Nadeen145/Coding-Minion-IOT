@@ -43,7 +43,8 @@ Links that helped us to deal with the sensors:
 | GM65 | 1. http://www.microtechnica.tv/support/manual/brm65_man.pdf <br /> 2. https://www.youtube.com/watch?v=aPUymNPWErE |
 | L298N | 1. https://github.com/AndreaLombardo/L298N <br /> 2. https://randomnerdtutorials.com/esp32-dc-motor-l298n-motor-driver-control-speed-direction/ <br /> 3. https://www.youtube.com/watch?v=2JTMqURJTwg |
 | Toggle Switcher | https://create.arduino.cc/projecthub/GeneralSpud/toggle-switch-3763a2 |
-| RGB Leds | 1. https://esp32io.com/tutorials/esp32-rgb-led <br /> 2. https://esp32io.com/tutorials/esp32-led-fade |
+| White Leds | https://esp32io.com/tutorials/esp32-led-fade |
+| RGB Leds | https://esp32io.com/tutorials/esp32-rgb-led |
 | Buzzer | 1. https://create.arduino.cc/projecthub/electropeak/how-to-use-ky-037-sound-detection-sensor-with-arduino-a757a7  <br /> 2. https://github.com/robsoncouto/arduino-songs |
 
 
