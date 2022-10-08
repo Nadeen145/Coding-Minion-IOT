@@ -37,6 +37,22 @@ The external libraries used in the project are:
 ## Helping Links //////////
 Links that helped us to deal with the sensors:
 
+| Sensor | Links | 
+| ---- | ----------- | -------- | --------------- |
+| 3 | - | Acquiring distance sensors  | Writing basic examples and tests for controlling distance sensors |
+| 4 | - | Acquiring Dc motors & controller | Writing basic examples and tests for the Dc motors |
+| 5 | Application Design (UI), creating application user scheme, and connecting application to firebase | - | Adding firebase connection code to the controller |
+| 6 | Work on the application, adding functionality of basic remote car control | - | - |
+| 7 | Application work, adding manual control module | Battery & Engine testing | Manual control and state reading from firebase code |
+| 8 | - | Connecting Dc motors, Esp32, and distance sensors | Designing the Autonomous movement algorithm & Testing |
+| 9 + 10 | Writing application module for receiving and displaying live video & footage | AI Thinker Esp32 Cam, learning usages & **building robot** | Creating Esp32-cam basic code that transmits live footage to a desired ip address, and uploads footage to the cloud |
+| 11 | Adding charging functionality into the app (user required charging) | Building charging station and railway | Docking in the charging station code |
+| 12 | - | Polishing rail and connection to the docking station | Docking in charging station code fixing and tinkering  |
+| 13 | - | Building the final robot build | code bug-fixing |
+| 14 | - | - | Move the firebase reading & updating into a separate thread in the esp32, in order to improve functionality, and add WebSerial connections in order to improve debugging capabilities |
+| 15 | Adding more configurable parameters to the application | examining the robot build | Added more configurable parameters reading from firebase & bug-fixing |
+
+
 
 ## Contributors
 * Nadeen Bawardi
