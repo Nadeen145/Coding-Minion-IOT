@@ -16,7 +16,6 @@ This project is the product of the course 236333 - Project in IoT, at the Techni
 | Folder Name | Content |
 | ---- | ----------- |
 | ESP32 Code | The code that we uploaded to the minion |
-| Images | Images of the coding minion |
 | Unit Tests | Folders such that, every folder with the name of a sensor, and this folder contains a code that check this specific sensor |
 | Assets | Colorful cards that caontain barcodes |
 
