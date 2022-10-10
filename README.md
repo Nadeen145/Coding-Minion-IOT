@@ -26,8 +26,8 @@ A robotic minion that solves mazes with the help of the user's programming. The 
 * 3 VL53L1X Distance Sensors.
 * GM65.
 * Buzzer.
-* 3 RGB leds.
-* 2 white leds.
+* 3 RGB LEDs.
+* 2 white LEDs.
 * 14 resistors.
 * Two N20 DC Motors.
 * L298 motors driver.
