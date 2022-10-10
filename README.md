@@ -1,5 +1,6 @@
 # Coding Minion
 A robotic minion that can scan barcodes, move parallel to the wall, turn 90, 180 degree, blink, sing and dance.
+
 ![poster](https://user-images.githubusercontent.com/49783776/194832594-05659edb-394e-4e85-9cf7-747585f29ad4.png)
 
 
