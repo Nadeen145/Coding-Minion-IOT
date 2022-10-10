@@ -10,11 +10,12 @@ A robotic minion that solves mazes with the help of the user's programming. The 
 This project is the product of the course 236333 - Project in IoT, at the Technion university. This project was created by Nadeen Bawardi, Banan Ashkar, Dalal Eghbaria and guided with the help of Tom Sopher, Itay Dabran and Natali Uda.
 
 
-## Content
-In the GitHub:
-* Folder "ESP32 Code": contains the code that we uploaded to the minion.
-* Folder "Unit Tests": contains folders such that, every folder with the name of a sensor, and this folder contains a code that check this specific sensor.
-* Folder "Assets": contains the colorful cards that caontain barcodes.
+## GitHub Content
+| Folder Name | Content |
+| ---- | ----------- |
+| ESP32 Code | contains the code that we uploaded to the minion |
+| Unit Tests | contains folders such that, every folder with the name of a sensor, and this folder contains a code that check this specific sensor |
+| Assets | contains the colorful cards that caontain barcodes |
 
 
 ## System Parts 
