@@ -19,6 +19,7 @@ A robotic minion that solves mazes with the help of the user's programming. The 
 | Unit Tests | Folders such that, every folder with the name of a sensor, and this folder contains a code that check this specific sensor |
 | Assets | Colorful cards that caontain barcodes |
 | Activation & Duplicating | Details for running the "Coding Minion" or duplicating it |
+| User Interface | User Interface for the "Coding Minion" |
 
 
 ## System Parts 
