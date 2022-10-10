@@ -9,15 +9,16 @@ A robotic minion that solves mazes with the help of the user's programming. The 
 
 
 ## Backstory
-This project is the product of the course 236333 - Project in IoT, at the Technion university. This project was created by Nadeen Bawardi, Banan Ashkar, Dalal Eghbaria and guided with the help of Tom Sopher, Itay Dabran and Natali Uda.
+"Coding Minion" is the product of the course 236333 - Project in IoT, at the Technion university. This project was created by Nadeen Bawardi, Banan Ashkar, Dalal Eghbaria and guided with the help of Tom Sopher, Itay Dabran and Natali Uda.
 
 
 ## GitHub Content
 | Folder Name | Content |
 | ---- | ----------- |
-| ESP32 Code | The code that we uploaded to the minion |
+| ESP32 Code | The code that we uploaded to the "Coding Minion" |
 | Unit Tests | Folders such that, every folder with the name of a sensor, and this folder contains a code that check this specific sensor |
 | Assets | Colorful cards that caontain barcodes |
+| Activation & Duplicating | Details for running the "Coding Minion" or duplicating it |
 
 
 ## System Parts 
