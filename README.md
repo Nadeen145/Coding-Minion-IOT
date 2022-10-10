@@ -29,9 +29,9 @@ This repo is the product of the course 236333 - Project in IoT, at the Technion 
 
 ## Used Libraries
 The external libraries used in the project are:
-* [VL53L1X](https://www.arduino.cc/reference/en/libraries/vl53l1x/)
-* [ESP32 analogWrite](https://www.arduino.cc/reference/en/libraries/esp32-analogwrite/)
-* [L298N](https://www.arduino.cc/reference/en/libraries/l298n/)
+* [VL53L1X](https://www.arduino.cc/reference/en/libraries/vl53l1x/), version: 1.3.1.
+* [ESP32 analogWrite](https://www.arduino.cc/reference/en/libraries/esp32-analogwrite/), version: 0.1.0.
+* [L298N](https://www.arduino.cc/reference/en/libraries/l298n/), version: 2.0.2.
 
 
 ## Helping Links
