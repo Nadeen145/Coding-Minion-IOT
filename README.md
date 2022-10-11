@@ -19,7 +19,7 @@ A robotic minion that solves mazes with the help of the user's programming. The 
 | Unit Tests | Folders such that, every folder with the name of a sensor, and this folder contains a code that check this specific sensor |
 | Assets | Colorful cards that caontain barcodes |
 | Activation & Duplicating | Details for running the "Coding Minion" or duplicating it |
-| User Interface | User Interface for the "Coding Minion" |
+| User Interface & Parameters | User Interface for the "Coding Minion" and important parameters |
 
 
 ## System Parts 
@@ -60,37 +60,7 @@ Links that helped us to deal with the sensors:
 | L298N & N20 DC Motors | 1. https://github.com/AndreaLombardo/L298N <br /> 2. https://randomnerdtutorials.com/esp32-dc-motor-l298n-motor-driver-control-speed-direction/ <br /> 3. https://www.youtube.com/watch?v=2JTMqURJTwg |
 | Toggle Switcher | https://create.arduino.cc/projecthub/GeneralSpud/toggle-switch-3763a2 |
 
-
-
-
-
 ## Contributors
 * Nadeen Bawardi
 * Banan Ashkar
 * Dalal Eghbaria
-
-
-
-
-
-
-
-
-
-
-
-
-# To Add To GitHub: *********************************************************
-
-
-# Dalal:
-תיעוד ממשק משתמש
-סטטוסים - אם יש סטטוסים שונים למערכת, מה השמות שלהם ואיך הם מיוצגים בממשק משתמש (כולל סטטוסים של שגיאות ותקלות). אם יש סטטוס שמיוצג על ידי ממשק המשתמש ציינו איך ( הודעה בצג, צבע של נורה, ממשק משתמש באפליקציה)
-פרמטרים - רשימת פרמטרים שניתן לקנפג בפרויקט בעזרת ממשק משתמש, בעזרת קובץ פרמטרים או ישירות בקוד - מומלץ הסבר קצר על כל אחד. אם יש הרבה, אז ה-15 המשמעותיים ביותר לדעתכם.
-הנחיות לכיול - קליברציה (אם יש בפרויקט)
-
-
-# Addition:
-* delete Deleeeeeeeeeete folder
-* update the latest version of the code
-* 
