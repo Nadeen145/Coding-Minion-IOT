@@ -1,7 +1,7 @@
 # Coding Minion
 A robotic minion that can scan barcodes, move parallel to the wall, turn 90, 180 degree, blink, sing and dance.
 
-[See me]([https://technionmail-my.sharepoint.com/:v:/g/personal/nadeen-ba_campus_technion_ac_il/Efm4IkHy2z5Fj8xSchvoOpwBdVrqAdZoOwcWUQ-_SPexBg?e=8ZwsAL](https://www.dropbox.com/scl/fi/y2xssjx69hejrivqjxy7q/Coding-Minion.mp4?rlkey=mbwz7omu8md29fg1xs7ji59vn&dl=0))
+[See me]([https://technionmail-my.sharepoint.com/:v:/g/personal/nadeen-ba_campus_technion_ac_il/Efm4IkHy2z5Fj8xSchvoOpwBdVrqAdZoOwcWUQ-_SPexBg?e=8ZwsAL](https://www.dropbox.com/scl/fi/y2xssjx69hejrivqjxy7q/Coding-Minion.mp4?rlkey=mbwz7omu8md29fg1xs7ji59vn&dl=0)
 
 ![poster](https://user-images.githubusercontent.com/49783776/194832594-05659edb-394e-4e85-9cf7-747585f29ad4.png)
 
